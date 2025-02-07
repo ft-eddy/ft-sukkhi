@@ -15,7 +15,8 @@ function nextSlide() {
 
 function yesResponse() {
     document.getElementById("finalMessage").innerHTML = 
-        "I'M SOOOOO HAPPY! 🥰💖 You are my first and last girlfriend! 😭💍 I promise to always be there for you—through all your happiness and sadness. 🤗💕 Always with you, my cutest Sukhreet! ✨💫";
+        "I'M SOOOOO HAPPY! 🥰💖 You are the besttt momooooooo 😭💍 I promise to always be there for you—through all your happiness and sadness nd u can share allllllll ur problems with me 
+        i will never judge 🤗💕 Always with you, my cutest Sukhreet! ✨💫";
     showSlide(slides.length - 1);
 }
 
